@@ -163,7 +163,7 @@ source("teoriadecision_funciones_incertidumbre_nuevo.R")
 
 valores_P2_SOLUCION = c(180, 60, 100,      
                         250, 20, 50, 
-                        130, 135, 140)    # d3: e2 cambiado a 135
+                        130, 135, 140)    
 
 tablaX_P2_SOLUCION = crea.tablaX(vector_matporfilas = valores_P2_SOLUCION,
                                  numalternativas = 3,
