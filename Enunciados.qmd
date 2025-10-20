@@ -51,5 +51,5 @@ Contexto: Una pequeña empresa de desarrollo de software, Innovatech, ha creado 
 |-------------|----------------|-----------------|----------------|
 | d1 (Suave)  | 180            | 60              | 100            |
 | d2 (Agresivo)| 250           | 20              | 50             |
-| d3 (Nicho)  | 130            | 90              | 140            |
+| d3 (Nicho)  | 130            | 135              | 140            |
 
